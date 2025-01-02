@@ -8,6 +8,19 @@
 
 > **18:00 ~ 20:00, 매주 2~3회 진행 (모집 후 조정 예정)**
 
+## 📝 Contents
+
+- [운영체제](https://github.com/woori-fisa-4th-study/cs-study/blob/main/OS/README.md)
+- [네트워크](https://github.com/woori-fisa-4th-study/cs-study/blob/main/Network/README.md)
+- [데이터베이스](https://github.com/woori-fisa-4th-study/cs-study/blob/main/DB/README.md)
+- [자료구조](https://github.com/woori-fisa-4th-study/cs-study/blob/main/DataStructure/README.md)
+- [알고리즘](https://github.com/woori-fisa-4th-study/cs-study/blob/main/Algorithm/README.md)
+- [실제 기술 면접 질문 리스트](https://github.com/woori-fisa-4th-study/cs-study/blob/main/Interview/README.md)
+
+(이후, 자유롭게 추가 스터디 진행 예정 ex. Java, Spring etc.)
+
+<br/>
+
 ## 📌 스터디 진행 방식
 
 ### ✅ 스터디 전
@@ -26,13 +39,4 @@
 
 - 스터디 종료 후, 해당 주제에 대한 정리본은 각자 당일 23:59까지 노션 및 깃허브에 업로드합니다.
 
-## 📝 Contents
 
-- [운영체제](https://github.com/woori-fisa-4th-study/cs-study/blob/main/OS/README.md)
-- [네트워크](https://github.com/woori-fisa-4th-study/cs-study/blob/main/Network/README.md)
-- [데이터베이스](https://github.com/woori-fisa-4th-study/cs-study/blob/main/DB/README.md)
-- [자료구조](https://github.com/woori-fisa-4th-study/cs-study/blob/main/DataStructure/README.md)
-- [알고리즘](https://github.com/woori-fisa-4th-study/cs-study/blob/main/Algorithm/README.md)
-- [실제 기술 면접 질문 리스트](https://github.com/woori-fisa-4th-study/cs-study/blob/main/Interview/README.md)
-
-(이후, 자유롭게 추가 스터디 진행 예정 ex. Java, Spring etc.)

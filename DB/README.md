@@ -22,3 +22,5 @@
 * [ ] DB의 Connection Pool
 * [ ] Trigger
 * [ ] Redis
+
+(추가) 백업 전략, 이중화 전략, 파티셔닝, 샤딩

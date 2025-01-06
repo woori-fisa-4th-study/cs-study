@@ -5,7 +5,7 @@
 * [ ] 운영체제와 컴퓨터
 * [ ] 메모리 계층
 * [ ] 프로세스와 스레드
-* [ ] IPC, Message Passing
+* [ ] 프로세스 간 통신(Inter Process Communication)
 * [ ] CPU 스케줄링 알고리즘
 * [ ] 인터럽트(Interrupt)
 * [ ] 시스템 콜(System Call)

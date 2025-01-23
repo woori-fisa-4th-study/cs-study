@@ -16,7 +16,6 @@
 * [ ] 페이징(Paging)
 * [ ] 가상메모리와 요구 페이징, 페이지 교체
 * [ ] TLB(Translation Lookaside Buffers)
-* [ ] Paging : Smaller Table
 * [ ] 동기화(스핀락, 세마포어, 뮤텍스)
 * [ ] 교착상태(DeadLock)
 
